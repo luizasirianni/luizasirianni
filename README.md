@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Software Testing Automation
-- ✨ Aspiring to be a QA engineer
+- ✨ Aspiring to be a Software Tester
 - 📧 Contact me:
  
 <div>
