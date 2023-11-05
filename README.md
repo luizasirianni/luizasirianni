@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Software Testing Automation
-- ✨ Aspiring to be a Software Tester
+- 🌱 I’m currently learning Software Testing Automation and RPA processes 
 - 📧 Contact me:
  
 <div>
